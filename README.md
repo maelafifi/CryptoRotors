@@ -7,3 +7,6 @@ Provide an easy to use Enigma rotor tool with multiple engima rotor machines.
 
 # Project Goals
 The goal of this project is to give users the ability to easily encrypt and decrypt utilizing an Enigma rotor machine. We will create multiple classes and isolate different enigmas. It will also be PIP-able, with the ability to simply pip-install all dependencies on any given users machine. Encrypted and Decrypted plaintext will be output to files for user verification and testing purposes.
+
+
+https://docs.google.com/presentation/d/1majOFShv4C1vL39tuN1f3yiCoMi8ypLJYlzX8xdpbkM/edit#slide=id.p
